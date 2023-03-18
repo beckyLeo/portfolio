@@ -2,7 +2,7 @@ This Repository is a demonstration ov various technical skills such as navigatin
 
 ----------
 
-3/18/2023 (~1hour)
+3/18/2023s
 Created about me & resume pages.
 Created navbar for all pages.
 Standardized Navbar on all pages.
